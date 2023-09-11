@@ -343,7 +343,7 @@ pexpect==4.6.0
 pilight==0.1.1
 
 # homeassistant.components.plex
-plexapi==3.3.0
+plexapi==4.3.0
 
 # homeassistant.components.plex
 plexauth==0.0.5
